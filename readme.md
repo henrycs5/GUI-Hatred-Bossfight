@@ -1,0 +1,17 @@
+# GUI Hatred Bossfight
+Date: 6/6/25
+My Final Project for Computer Science A utilizing Swing Java GUIs and Timers.
+
+## Setting up the Project
+1. Zip the entirety of my GitHub project, download it somewhere, and extract the folder.
+2. Download the IDE known as [BlueJ](https://www.bluej.org/).
+3. Click the package BlueJ file (package.bluej)
+4. Compile the files in BlueJ and right click the void main(string[] args) in the Bossfight Class to start the game!
+
+## How Do I Play This?
+1. There are 3 buttons bundled into one attack cycle that loops. I was too lazy to add unique attack cycles and also because I didn't have much time. 
+    1. Click or Die: Clicking will prevent the player from losing 50 hp.
+    2. Click to Die: Click will kill the player and end the game.
+    3. Attack!: Deals 5 damage to the boss.
+2. There are two win conditions that display different screens.
+3. You're losing? Skill Issue!
