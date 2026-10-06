@@ -1,5 +1,5 @@
 # GUI Hatred Bossfight
-Date: 6/6/25
+Date: 6/6/25\
 My Final Project for Computer Science A utilizing Swing Java GUIs and Timers.
 
 ## Setting up the Project
